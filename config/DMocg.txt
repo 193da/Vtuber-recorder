@@ -1,0 +1,4 @@
+Savefolder:/home/centos/Vtuber-recorder/savevideo/DMocg
+Checktime:18
+LoopOrOnce:loop
+https://live.bilibili.com/4835561?broadcast_type=0
