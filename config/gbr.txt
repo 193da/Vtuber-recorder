@@ -1,0 +1,4 @@
+Savefolder:/home/centos/Vtuber-recorder/savevideo/gbr
+Checktime:18
+LoopOrOnce:loop
+https://twitcasting.tv/babutarofficial
